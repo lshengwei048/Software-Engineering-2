@@ -84,7 +84,7 @@ status（房態）
 系統僅允許「空房」狀態之房間進行入住
 退房完成後，自動將房態轉為「清潔中」
 
-![01]()
+![01](https://github.com/lshengwei048/Software-Engineering-2/blob/ab7e48ba3ec270cc8bc55afeed7ebde98f36bf09/%E9%85%92%E5%BA%97%E7%AE%A1%E7%90%86.png)
 
 ### 測試計畫
 #### 
