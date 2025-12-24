@@ -124,7 +124,7 @@ status（房態）
 系統僅允許「空房」狀態之房間進行入住
 退房完成後，自動將房態轉為「清潔中」
 
-![01](https://github.com/lshengwei048/Software-Engineering-2/blob/e870d06d8d72f0b4e487722eae08f6b574d33ea3/%E9%85%92%E5%BA%97%E7%AE%A1%E7%90%86.jpg)
+![01](https://github.com/lshengwei048/Software-Engineering-2/blob/04b14dce0ba5e212a33b915ce501bcb69cef5d6e/%E5%AE%A2%E6%88%BF%E7%AE%A1%E7%90%86.jpg)
 ### 測試計畫
 #### 
 1. 測試目的
