@@ -97,7 +97,9 @@
 清潔狀態管理模組
 報表與統計模組
 
-3. 模組關聯說明
+![01](https://github.com/lshengwei048/Software-Engineering-2/blob/bfd8027fdf73f214698b9238bef63e56b7816456/%E7%99%BB%E8%A8%98%E7%AF%84%E4%BE%8B.png)
+
+4. 模組關聯說明
 各模組透過後端 API 進行資料交換，避免模組間高度相依，提高系統維護性與擴充性。
 
 ![01](https://github.com/lshengwei048/Software-Engineering-2/blob/b1fd48e0d6d4789c50e061b788ceaf2d3f668862/%E6%91%98%E8%A6%81%E8%A8%AD%E8%A8%88.jpg)
