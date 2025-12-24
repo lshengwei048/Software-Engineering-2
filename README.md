@@ -81,6 +81,8 @@
 操作回饋明確
 使用者進行操作後，系統應即時顯示成功或失敗訊息，如「入住完成」或「資料儲存成功」，讓使用者清楚知道目前操作狀態。
 
+![01](https://github.com/lshengwei048/Software-Engineering-2/blob/afd627ccdf7f9bc45242c4f3628e4fd5cbdc0a67/%E4%BD%BF%E7%94%A8%E8%80%85%E4%BB%8B%E9%9D%A2.png)
+
 ### 概要設計說明書
 #### 
 1. 系統整體架構
